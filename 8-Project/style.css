@@ -4,8 +4,8 @@ body {
   
 }
 img {
-  height: 350px;
-  width: 500px;
+  height: 150px;
+  width: 200px;
 }
 .container-fluid {
   margin-top: 10px;
@@ -67,6 +67,7 @@ img {
   transform: translateY(-15px);
   transition: .2s ease-in;
 }
+
 
 
 
