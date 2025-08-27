@@ -67,6 +67,11 @@ img {
   transform: translateY(-15px);
   transition: .2s ease-in;
 }
+.fh:hover{
+  color: rgb(92, 88, 88);
+  cursor: pointer;
+}
+
 
 
 
